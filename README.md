@@ -169,6 +169,13 @@ MySQL üzerinde aşağıdaki tabloların oluşturulması gerekmektedir:
 ## 👤 Geliştirici
 
 **Ad Soyad:** Nazar Baştuğ
-**Üniversite:** … Üniversitesi
+
+**Üniversite:** Uludağ Üniversitesi
+## 🎥 Video
+
+https://youtu.be/yRRQoHxY9vU?si=aN-a6KYjShcB6N6H
+
+## 📌 Not
+Bu proje eğitim ve akademik amaçlarla geliştirilmiştir.
 **Bölüm:** Yönetim Bilişim Sistemleri
 **GitHub:** [https://github.com/…](https://github.com/…)
