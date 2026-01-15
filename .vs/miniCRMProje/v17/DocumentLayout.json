@@ -1,0 +1,735 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmcallcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\raporlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\dal\\rapordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:dal\\rapordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmadmin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\projelerim\\crmfinal\\minicrmproje\\dal\\personeldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:dal\\personeldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\dal\\musterilerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:dal\\musterilerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\raporlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\raporlama.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\dal\\taleplerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:dal\\taleplerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\bll\\musteriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:bll\\musteriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmcallcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\doma\u0130n\\taleprapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:doma\u0130n\\taleprapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\doma\u0130n\\talep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:doma\u0130n\\talep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\doma\u0130n\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:doma\u0130n\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\doma\u0130n\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:doma\u0130n\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\doma\u0130n\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:doma\u0130n\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\doma\u0130n\\hizmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:doma\u0130n\\hizmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\dal\\kullanicilardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:dal\\kullanicilardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\dal\\hizmetlerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:dal\\hizmetlerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmsupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|c:\\users\\nazar\\desktop\\garant\u0130\\frmforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\bll\\talepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:bll\\talepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\bll\\raporservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:bll\\raporservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\bll\\personelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:bll\\personelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\bll\\hizmetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:bll\\hizmetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\bll\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13221216-2761-4243-B32E-904CFA44F5D0}|miniCRMProje.csproj|solutionrelative:bll\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCallCenter.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmCallCenter.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmCallCenter.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmCallCenter.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmCallCenter.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:01:26.717Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RAPORLAMA.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\RAPORLAMA.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\RAPORLAMA.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\RAPORLAMA.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\RAPORLAMA.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:32:31.78Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RaporDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DAL\\RaporDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\RaporDAL.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DAL\\RaporDAL.cs",
+              "RelativeToolTip": "DAL\\RaporDAL.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAArwKIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:07:14.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmRequest.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmRequest.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswFoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:42:16.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAdmin.resx",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmAdmin.resx",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmAdmin.resx",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmAdmin.resx",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmAdmin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-07T21:23:42.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmRegister.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmRegister.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmRegister.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmRegister.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmRegister.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:48:27.309Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:11:10.241Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonelDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DAL\\PersonelDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\PersonelDAL.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DAL\\PersonelDAL.cs",
+              "RelativeToolTip": "DAL\\PersonelDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:06:42.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmStaff.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmStaff.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmStaff.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmStaff.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmStaff.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:27:17.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MusterilerDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DAL\\MusterilerDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\MusterilerDAL.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DAL\\MusterilerDAL.cs",
+              "RelativeToolTip": "DAL\\MusterilerDAL.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwFwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:06:12.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmRequest.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmRequest.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmRequest.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmRequest.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:16:18.472Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmAdmin.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmAdmin.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmAdmin.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmAdmin.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmAdmin.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:55:22.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmSupport.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmSupport.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmSupport.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmSupport.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmSupport.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:30:14.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RAPORLAMA.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\RAPORLAMA.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\RAPORLAMA.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\RAPORLAMA.cs",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\RAPORLAMA.cs",
+              "ViewState": "AgIAAHABAAAAAAAAAAD4v4IBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:51:21.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmService.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmService.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmService.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmService.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:23:58.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmAdmin.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmAdmin.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmAdmin.cs",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T21:22:18.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmAdmin.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmAdmin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T21:23:08.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmForgotPassword.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmForgotPassword.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmForgotPassword.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmForgotPassword.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmForgotPassword.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:21:40.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmCustomer.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmCustomer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmCustomer.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmCustomer.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmCustomer.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:03:50.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaleplerDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DAL\\TaleplerDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\TaleplerDAL.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DAL\\TaleplerDAL.cs",
+              "RelativeToolTip": "DAL\\TaleplerDAL.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAlwFAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:07:45.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmCallCenter.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmCallCenter.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmCallCenter.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmCallCenter.cs",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmCallCenter.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:30:49.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RAPORLAMA.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\RAPORLAMA.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\RAPORLAMA.Designer.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\RAPORLAMA.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\RAPORLAMA.Designer.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAD4vyABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T20:42:51.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmService.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmService.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmService.cs",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAjwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:47:32.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\LoginForm.cs",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\LoginForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:57:20.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T20:26:25.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\LoginForm.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAMwLgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T20:34:39.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MusteriService.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\BLL\\MusteriService.cs",
+              "RelativeDocumentMoniker": "BLL\\MusteriService.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\BLL\\MusteriService.cs",
+              "RelativeToolTip": "BLL\\MusteriService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:02:17.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmRegister.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmRegister.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmRegister.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmRegister.cs",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:41:22.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmCustomer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmCustomer.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmCustomer.cs",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmCustomer.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAhwI0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:35:12.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TalepRapor.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DOMA\u0130N\\TalepRapor.cs",
+              "RelativeDocumentMoniker": "DOMA\u0130N\\TalepRapor.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DOMA\u0130N\\TalepRapor.cs",
+              "RelativeToolTip": "DOMA\u0130N\\TalepRapor.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T20:08:12.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Talep.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DOMA\u0130N\\Talep.cs",
+              "RelativeDocumentMoniker": "DOMA\u0130N\\Talep.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DOMA\u0130N\\Talep.cs",
+              "RelativeToolTip": "DOMA\u0130N\\Talep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:10:42.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DOMA\u0130N\\Personel.cs",
+              "RelativeDocumentMoniker": "DOMA\u0130N\\Personel.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DOMA\u0130N\\Personel.cs",
+              "RelativeToolTip": "DOMA\u0130N\\Personel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:10:20.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DOMA\u0130N\\Musteri.cs",
+              "RelativeDocumentMoniker": "DOMA\u0130N\\Musteri.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DOMA\u0130N\\Musteri.cs",
+              "RelativeToolTip": "DOMA\u0130N\\Musteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:09:53.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DOMA\u0130N\\Kullanici.cs",
+              "RelativeDocumentMoniker": "DOMA\u0130N\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DOMA\u0130N\\Kullanici.cs",
+              "RelativeToolTip": "DOMA\u0130N\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:09:29.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Hizmet.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DOMA\u0130N\\Hizmet.cs",
+              "RelativeDocumentMoniker": "DOMA\u0130N\\Hizmet.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DOMA\u0130N\\Hizmet.cs",
+              "RelativeToolTip": "DOMA\u0130N\\Hizmet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:09:09.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "KullanicilarDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DAL\\KullanicilarDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\KullanicilarDAL.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DAL\\KullanicilarDAL.cs",
+              "RelativeToolTip": "DAL\\KullanicilarDAL.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:05:50.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HizmetlerDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DAL\\HizmetlerDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\HizmetlerDAL.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DAL\\HizmetlerDAL.cs",
+              "RelativeToolTip": "DAL\\HizmetlerDAL.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:05:28.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DAL\\DbConnection.cs",
+              "RelativeDocumentMoniker": "DAL\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\DAL\\DbConnection.cs",
+              "RelativeToolTip": "DAL\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:05:03.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmSupport.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmSupport.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmSupport.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmSupport.cs",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmSupport.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAASwFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:54:57.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FrmStaff.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmStaff.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmStaff.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmStaff.cs",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmStaff.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAIA3wIAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:52:53.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FrmForgotPassword.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmForgotPassword.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GARANT\u0130\\FrmForgotPassword.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\GARANT\u0130\\FrmForgotPassword.cs",
+              "RelativeToolTip": "..\\..\\..\\GARANT\u0130\\FrmForgotPassword.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAhwCgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:40:04.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TalepService.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\BLL\\TalepService.cs",
+              "RelativeDocumentMoniker": "BLL\\TalepService.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\BLL\\TalepService.cs",
+              "RelativeToolTip": "BLL\\TalepService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:03:55.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RaporService.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\BLL\\RaporService.cs",
+              "RelativeDocumentMoniker": "BLL\\RaporService.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\BLL\\RaporService.cs",
+              "RelativeToolTip": "BLL\\RaporService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:03:31.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PersonelService.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\BLL\\PersonelService.cs",
+              "RelativeDocumentMoniker": "BLL\\PersonelService.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\BLL\\PersonelService.cs",
+              "RelativeToolTip": "BLL\\PersonelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:02:50.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HizmetService.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\BLL\\HizmetService.cs",
+              "RelativeDocumentMoniker": "BLL\\HizmetService.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\BLL\\HizmetService.cs",
+              "RelativeToolTip": "BLL\\HizmetService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:01:42.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\BLL\\AuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Nazar\\Desktop\\projelerim\\crmFinal\\miniCRMProje\\BLL\\AuthService.cs",
+              "RelativeToolTip": "BLL\\AuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:01:07.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
